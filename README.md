@@ -136,3 +136,5 @@ With packet replay in progress, a **sniffer program** was executed on the Window
    ```sh
    python part2.py
    ```
+### 3. Capture the packets 
+Everything about this part is written in the report itself.
