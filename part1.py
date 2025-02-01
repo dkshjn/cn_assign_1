@@ -1,7 +1,6 @@
 from scapy.all import rdpcap, IP, TCP, UDP
 import matplotlib.pyplot as plt
 import numpy as np
-import time
 from collections import defaultdict
 
 pcap_file = "5.pcap"
