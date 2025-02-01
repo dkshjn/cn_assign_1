@@ -128,6 +128,7 @@ sudo tcpreplay -i en9 --mbps=2.9 /Users/dj/Downloads/5.pcap
 ## 5. Capturing Packets on Windows  
 With packet replay in progress, a **sniffer program** was executed on the Windows machine to capture and analyze the incoming packets. The total number of packets received matched the number of packets sent, confirming successful transmission without packet loss.
 
+The script captures packets without loss at a maximum rate of ~800 pps or 2.9 Mbps.
 
 ### 2. Catch Me If You Can (part2.py)
 
